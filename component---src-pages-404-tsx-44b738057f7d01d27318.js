@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklc=self.webpackChunklc||[]).push([[218],{2697:function(e,n,t){t.r(n),t.d(n,{default:function(){return a}});var l=t(7294),u=t(5444),r=t(4362),c=function(){return l.createElement(r.T,null,l.createElement("div",null,"404"),l.createElement(u.rU,{to:"/"},"Go home"),".")},a=function(){return l.createElement(c,null)}}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-44b738057f7d01d27318.js.map
